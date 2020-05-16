@@ -1,1 +1,1 @@
-fdsghdjjdf
+print("czesc")
